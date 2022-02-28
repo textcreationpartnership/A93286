@@ -1,0 +1,348 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sions charity towards her foes in misery. In a dialogue betweene a citizen of London, and a country-gentleman, concerning the offenders of these times.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93286</idno>
+            <idno type="STC">Wing S3869</idno>
+            <idno type="STC">Thomason E158_13</idno>
+            <idno type="STC">ESTC R14132</idno>
+            <idno type="EEBO-CITATION">99859619</idno>
+            <idno type="PROQUEST">99859619</idno>
+            <idno type="VID">111713</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93286)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111713)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 28:E158[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sions charity towards her foes in misery. In a dialogue betweene a citizen of London, and a country-gentleman, concerning the offenders of these times.</title>
+               </titleStmt>
+               <extent>[2], 10 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by R. H. for I. D.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>16.41.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Illustrated t.p.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111713:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 8 -->
+            <p>SIONS CHARITY TOWARDS HER Foes in miſery.</p>
+            <p>IN A DIALOGVE BE<g ref="char:EOLhyphen"/>tweene a Citizen of LONDON, and a Country-Gentleman, concer<g ref="char:EOLhyphen"/>ning the Offenders of theſe times.</p>
+            <q>
+               <bibl>Mat. 7.1.</bibl>
+               <p>Iudge not, that ye be not Iudged.</p>
+            </q>
+            <q>
+               <bibl>1 Cor. 13.6.</bibl>
+               <p>Charity reioyceth not in iniquity, but reioyceth in the truth.</p>
+            </q>
+            <figure>
+               <sp>
+                  <p>Repint</p>
+               </sp>
+            </figure>
+            <p>London Printed by <hi>R. H.</hi> for <hi>I. D.</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:111713:2"/>
+            <!-- PDF PAGE 9 -->
+            <pb n="1" facs="tcp:111713:2"/>
+            <!-- PDF PAGE 9 -->
+            <head>SIONS CHARITY.</head>
+            <sp>
+               <speaker>GEntleman.</speaker>
+               <p>Well overtaken Sir.</p>
+            </sp>
+            <sp>
+               <speaker>Citizen.</speaker>
+               <p>You are very welcome Sir.</p>
+            </sp>
+            <sp>
+               <speaker>Gent.</speaker>
+               <p>I pray you Sir how far travaile you this way.</p>
+            </sp>
+            <sp>
+               <speaker>Citt.</speaker>
+               <p>As far as Nottingham, if the Lord permit.</p>
+            </sp>
+            <sp>
+               <speaker>Gent.</speaker>
+               <p>And whence come you Sir I pray you.</p>
+            </sp>
+            <sp>
+               <speaker>Citt.</speaker>
+               <p>From London Sir.</p>
+            </sp>
+            <sp>
+               <speaker>Cent.</speaker>
+               <p>Indeed I thought by your habit you were a Citizen of London, and to tell you truly, I am glad I met with you, for that I much deſire to heare what newes at London this Parliament time; therefore if I can intreat ſo much favour at your hands, as to accept of my company a mile or two of your way, and to relate unto me ſome of your newes at Lon<g ref="char:EOLhyphen"/>don, I ſhall thinke my ſelf much bounden unto you.</p>
+            </sp>
+            <sp>
+               <speaker>Citt.</speaker>
+               <p>Sir, you ſeeme to be an honeſt grave coun<g ref="char:EOLhyphen"/>trey Gentleman, and therefore your company to me is very acceptable, and I ſhould be glad that you had further to goe on in my way, and ſhall be willing to pleaſure you in telling you any newes I know at London.</p>
+            </sp>
+            <sp>
+               <pb n="2" facs="tcp:111713:3"/>
+               <!-- PDF PAGE 10 -->
+               <speaker>Gent.</speaker>
+               <p>Sir, I thanke you very kindly, and firſt of all I pray you tell me, is the Parliament like to ſit ſtill, and not be diſſolved.</p>
+            </sp>
+            <sp>
+               <speaker>Citt.</speaker>
+               <p>Yea, I make no doubt of it, for thankes be to the Lord there is an Act for that purpoſe.</p>
+            </sp>
+            <sp>
+               <speaker>Gent.</speaker>
+               <p>Bleſſed be the Lord for it, I rejoyce to heare it, aſſuring my ſelf, if they ſit without diſturbance they will amend many things that are amiſs both in the Church and Common-wealth.</p>
+            </sp>
+            <sp>
+               <speaker>Citt.</speaker>
+               <p>God grant it, ſay I; for in my judgement there is great need.</p>
+            </sp>
+            <sp>
+               <speaker>Gent.</speaker>
+               <p>Yea doubtleſſe, and I pray you Sir what heare you concerning thoſe that have been the trou<g ref="char:EOLhyphen"/>blers of this our Iſrael.</p>
+            </sp>
+            <sp>
+               <speaker>Citt.</speaker>
+               <p>Concerning them, this I ſay for certaine, that ſome of them are fled, and one is dead, and others are yet alive.</p>
+            </sp>
+            <sp>
+               <speaker>Gent.</speaker>
+               <p>And who be they I pray you that are fled.</p>
+            </sp>
+            <sp>
+               <speaker>Citt.</speaker>
+               <p>
+                  <hi>Finch, Windebank,</hi> and divers of that wret<g ref="char:EOLhyphen"/>ched crew, whoſe names I cannot now remember.</p>
+            </sp>
+            <sp>
+               <speaker>Gent.</speaker>
+               <p>And who is he I pray you that is dead?</p>
+            </sp>
+            <sp>
+               <speaker>Citt.</speaker>
+               <p>The Deputy of Ireland, that traiterous wretch, and murdering caitife.</p>
+            </sp>
+            <sp>
+               <speaker>Gent.</speaker>
+               <p>And who are they I pray you that are yet alive.</p>
+            </sp>
+            <sp>
+               <speaker>Citt.</speaker>
+               <p>Great Belzebub, that Prince of devils, who though he is faſt chained up in the Tower, yet ma<g ref="char:EOLhyphen"/>ny others of his infernall Spirits are yet at liberty.</p>
+            </sp>
+            <sp>
+               <speaker>Gent.</speaker>
+               <p>Sir, by your favour, I muſt make bold to tell you before we proceed any further, tha I thinke you doe very ill in giving them ſuch titles, you ſeeme by your civill habit to be a man profeſſing the feare of God, and therefore I thinke it meet for mee
+<pb n="3" facs="tcp:111713:3"/>
+                  <!-- PDF PAGE 10 -->to tell you that theſe are unchriſtian like ſpeeches.</p>
+            </sp>
+            <sp>
+               <speaker>Citt.</speaker>
+               <p>Why Sir, I pray you, can a man ſpeake too ill of them that have been enemies to all righteouſ<g ref="char:EOLhyphen"/>neſſe,<note place="margin">Acts 13.8.</note> did not the Apoſtle <hi>Paul</hi> call <hi>Elimas</hi> the Sor<g ref="char:EOLhyphen"/>cerer as ill as I call them *.</p>
+            </sp>
+            <sp>
+               <speaker>Gent.</speaker>
+               <p>It is very true indeed, the Apoſtle <hi>Paul</hi> called him as ill, yet doubtleſſe it is not lawfull for you to follow his example therein, except you bee full of the holy Ghoſt, as the Text ſaith <hi>Paul</hi> was, and thereby was able to diſcerne him to be the childe of the devill: and beſides, as I hope, you know our beſt Divines<note n="*" place="margin">
+                     <hi>M.</hi> Dent.</note> doe forbid us to ſpeake evill either of them that are abſent, or of the dead; yea,<note place="margin">Tit. 2.2.</note> the Apo<g ref="char:EOLhyphen"/>ſtle <hi>Paul</hi> goes further, ſpeake evill of no man.</p>
+            </sp>
+            <sp>
+               <speaker>Citt.</speaker>
+               <p>But if you were in London, you ſhould not only heare bad men, but alſo many good men ſpeak as ill of them as I have done: yea, you ſhall ſee divers writings, yea, and Bookes printed, lying on many Bookſellers Stals to be ſold, that give them as bad language as I have done.</p>
+            </sp>
+            <sp>
+               <speaker>Gent.</speaker>
+               <p>The more is the pitty, I am ſorry to heare it, being aſſured that this is not the language of Ca<g ref="char:EOLhyphen"/>naan, which every Chriſtian ought to ſpeake. Doe you not remember the Apoſtle <hi>Iude</hi> writes, that when <hi>Michael</hi> the Archangell ſtrove againſt the de<g ref="char:EOLhyphen"/>vill, and diſputed about the body of <hi>Moſes,</hi> durſt not blame him with curſed ſpeaking, or give him any railing accuſation, but only ſaid, the Lord rebuke thee: and to tell you truly, though I my ſelfe be one whom they call a Profeſſor, yet doe I utterly diſlike this diſpoſition which I have obſerved in many, who are called by that name, in uttering ſuch bitter words againſt groſſe offenders, and much more if
+<pb n="4" facs="tcp:111713:4"/>
+                  <!-- PDF PAGE 11 -->they write or print Bookes in that nature, to tell you truly, I like not ſuch Satyricall ſpirits.</p>
+            </sp>
+            <sp>
+               <speaker>Citt.</speaker>
+               <p>Why, but Sir by your favour, I conceive that ſuch Bookes doe much good, for firſt, thereby it is poſſible that ſuch as have offended may come to ſee their offence thereby, and ſo be brought to ſhame, and afterwards to repentance: and then ſecondly, hereby it is made apparant to the world, what they are, and ſo they come to be deteſted, and at laſt cut off from troubling this our Iſrael; as one is, and I hope more will follow.</p>
+            </sp>
+            <sp>
+               <speaker>Gent.</speaker>
+               <p>Sir, I pray you conceive that it is not the matter of ſuch Bookes that I doe ſimply condemne, but the manner or ſtile of them; for I conceive if ſuch matter as is in ſome of them, were compoſed after a ſober, pittifull, and Chriſtian-like manner, without tart or bitter ſpeeches, then it were poſſi<g ref="char:EOLhyphen"/>ble they might be a meanes to worke ſhame and re<g ref="char:EOLhyphen"/>pentance in the hearts of offendors. Let the ſin bee ſhamed rather then the ſinner, the particulars of<g ref="char:EOLhyphen"/>fenſive, then the perſons offending, ſaith a godly man: but this tart manner ſpoiles all; for firſt it makes the offendors conceive, that the authors and approvers of them doe hate their perſons, and ſo ſpeake out of malice, or deſire of revenge, and ſo by that meanes they doe but exaſperate them, or har<g ref="char:EOLhyphen"/>den them, and rather keep them from repentance, then bring them unto it, and beſides, without Gods preventing grace, they will occaſion the readers, or hearers of them, either to hate their perſons, or jeere them, or both; it is a moſt intemperate zeale<note n="*" place="margin">M. By field</note> ſaith a godly Divine, that ſpends it ſelfe in the vain and bootleſſe cenſure of the eſtate of thoſe that are
+<pb n="5" facs="tcp:111713:4"/>
+                  <!-- PDF PAGE 11 -->without: thoſe cenſures have in them much of pro<g ref="char:EOLhyphen"/>vocation, and nothing of edification; it were hap<g ref="char:EOLhyphen"/>py for ſome Chriſtians if they could with the Apo<g ref="char:EOLhyphen"/>tle ſay often to their own ſoules,<note place="margin">1 Cor. 5.12, 13.</note> what have I to doe to judge them that are without.</p>
+            </sp>
+            <sp>
+               <speaker>Citt.</speaker>
+               <p>Well Sir, one thing I can aſſure you of up<g ref="char:EOLhyphen"/>on my own knowledge, that the printing and ſelling of ſuch Bookes hath been a meanes to help many a poore man in London theſe dead times of trading.</p>
+            </sp>
+            <sp>
+               <speaker>Gent.</speaker>
+               <p>That may be indeed, and yet the Bookes never the more lawfull or warrantable for that, you know wee muſt not doe evill that good may come thereof.</p>
+            </sp>
+            <sp>
+               <speaker>Citt.</speaker>
+               <p>Well Sir, let us leave off this diſcourſe concerning the Bookes, and let us proceed a little futher in our diſcourſe concerning the perſons who are the ſubject matter of ſuch Bookes, and I pray you tell me how you conceive a Chriſtian man is to ſtand affected toward ſuch perſons?</p>
+            </sp>
+            <sp>
+               <speaker>Gent.</speaker>
+               <p>Without queſtion he ought to love their perſons as they are men, you know whoſe words they are, <hi>Mat.</hi> 5.44. <hi>But I ſay unto you, love your ene<g ref="char:EOLhyphen"/>mies.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Citt.</speaker>
+               <p>Indeed I grant, if they were my private ene<g ref="char:EOLhyphen"/>mies I ought to love them, yea, and ſo far forth as they are ſo, I ought to doe it; but theſe men are pub<g ref="char:EOLhyphen"/>like enemies, yea, Gods enemies, ſuch as oppoſe and hate the truth of God, and perſecute it in the profeſſors thereof, yea they are ſuch as are enemies to any good courſe, and godly proceedings.</p>
+            </sp>
+            <sp>
+               <speaker>Gent.</speaker>
+               <p>Though they be Gods enemies, and pub<g ref="char:EOLhyphen"/>like enemies, yet for ought you know while they are alive they may be curable, and therefore though you
+<pb n="6" facs="tcp:111713:5"/>
+                  <!-- PDF PAGE 12 -->may hate their ſins, and pray againſt their devices, yet muſt you love their perſons.</p>
+            </sp>
+            <sp>
+               <speaker>Citt.</speaker>
+               <p>But did not <hi>Paul</hi> and <hi>David</hi> hate the per<g ref="char:EOLhyphen"/>ſons of ſuch, and pray againſt them, and may not we imitate them therein?</p>
+            </sp>
+            <sp>
+               <speaker>Gent.</speaker>
+               <p>It is true indeed, <hi>Paul</hi> prayed againſt <hi>Ale<g ref="char:EOLhyphen"/>xander</hi> the Copper-ſmith,<note place="margin">2 Tim. 4. Pſal. 139.32.</note> that God would reward him according to his workes; So <hi>David</hi> ſaith, Do not I hate them O Lord that hate thee? &amp;c. and ſo in many other <hi>Pſalmes</hi> he prayes for the finall and utter deſtruction of his enemies, which indeed is a ſigne of utter hatred, yet this was becauſe they were not only Gods enemies, but deſperate and irrecove<g ref="char:EOLhyphen"/>rable ones, which they ſaw by the Spirit of God, be<g ref="char:EOLhyphen"/>ing extraordinarily and infallibly informed thereof, and therefore their prayers were but prophecies of the finall deſtruction of theſe men, as <hi>Pſal.</hi> 63.9. and 54. and 5. But for us, becauſe we have not the like meaſure or gift of Spirit, we have no ſuch war<g ref="char:EOLhyphen"/>rant either to hate, or pray directly againſt any mans perſon.</p>
+            </sp>
+            <sp>
+               <speaker>Citt.</speaker>
+               <p>Well Sir, I tell you truly I did not conſi<g ref="char:EOLhyphen"/>der theſe things before now, and I begin to feare my heart hath not been ſo rightly affected towards theſe men whom I have named, as it ought, therefore I pray you proceed further in this matter.</p>
+            </sp>
+            <sp>
+               <speaker>Gent.</speaker>
+               <p>I will, as the Lord ſhall enable me, and firſt as touching them that are yet living, I conceive it is the duty of a Chriſtian, and that which doth moſt expreſſe a Chriſtian-like ſpirit, to expreſſe our love to them in being ſorry, yea, and in mourning for them, yea, and the more we heare their faults diſco<g ref="char:EOLhyphen"/>vered, the more we are to ſorrow for them: &amp; this I
+<pb n="7" facs="tcp:111713:5"/>
+                  <!-- PDF PAGE 12 -->am confident hath warrant from Scripture, doe you not remember what the Apoſtle ſaid to the Corin<g ref="char:EOLhyphen"/>thians touching the inceſtuous perſon, and you are puffed up ſaith he,<note place="margin">1 Cor 5.2.</note> and have not rather ſorrowed. It is a place that I have often thought upon, and to tell you truly, I have found ſuch a diſpoſition in my owne heart as was in theſe Corinthians, and that is, when I have heard-of others that have committed ſome groſſe offences, I have as it were found my heart glad within me, or rather puffed up with pride, becauſe I have not been guilty of the like tranſgreſſions, when as it is cleare by the Text, that I ſhould rather have ſorrowed for them, for want of which diſpoſition, the Apoſtle blames the Corin<g ref="char:EOLhyphen"/>thians; it was well ſaid therefore of one, in the Booke called the Lives of the Fathers, when it was told him that one of his brethren was fallen into whoredome; he fell yeſterday ſaith he, and I may fall to day; to this purpoſe <hi>Luther</hi> hath an excel<g ref="char:EOLhyphen"/>lent ſaying, we muſt not ſaith he, meaſure our own holineſſe by other mens ſins, therefore let him that ſtandeth, take heed leſt he fall,<note place="margin">1 Cor. 10.12.</note> and have ye not con<g ref="char:EOLhyphen"/>ſidered when it was revealed to <hi>Eliſha</hi> by the Spirit of prophecie, what groſſe crimes <hi>Hazael</hi> ſhould commit hereafter? the Text ſaith, that he looked up<g ref="char:EOLhyphen"/>on him ſtedfaſtly, and wept; now if that the Pro<g ref="char:EOLhyphen"/>phet of God wept when he conſidered the evill which that wicked man ſhould commit hereafter, ought not we, think you, to doe the like when wee conſider what wickedneſſe men have committed heretofore, and indeed Sir, if we did well we ſhould make this good uſe thereof unto our ſelves, that is, when we heare what tranſgreſſions others have com<g ref="char:EOLhyphen"/>mitted,
+<pb n="8" facs="tcp:111713:6"/>
+                  <!-- PDF PAGE 13 -->we ſhould therein as in a glaſſe behold our owne natures, we being the very ſame by nature as they are, and if we had the ſame temptations which they had, and the Lord ſhould leave us to our ſelves as he left them, we ſhould certainly commit the like tranſgreſſions which they have done. To this pur<g ref="char:EOLhyphen"/>poſe I remember a ſtory which I heard a godly Di<g ref="char:EOLhyphen"/>vine relate in the Pulpit concerning a certaine man, who being diſtreſſed in conſcience by reaſon of the apprehenſion of the greatneſſe of his ſins, one of his Chriſtian friends labouring to comfort him, willed him to conſider that his ſins were not ſo great as <hi>Manaſſes</hi> were, who yet notwithſtanding were for<g ref="char:EOLhyphen"/>given, whereupon he replyed, if I had lived in <hi>Ma<g ref="char:EOLhyphen"/>naſſes</hi> times, and had had the ſame temptations as <hi>Manaſſes</hi> had, I ſhould have committed as great ſins as <hi>Manaſſes</hi> did. Wee cry out ſaith another godly Divine, againſt <hi>Cain</hi> for murdering his brother, and againſt <hi>Iudas,</hi> for betraying his Maſter, when as we our ſelves have the ſame murderous and traiterous diſpoſition in us by nature; to this purpoſe <hi>Auſtin</hi> ſpeaketh well ſaying, There is no ſin which any man hath done, but another man might doe the ſame; yea, ſaith <hi>Luther,</hi> God by ſuch examples doth ſhew unto us our owne weakneſſe, that we ſhould not wax proud, but ſtand in feare, according to that of the Apoſtle,<note place="margin">Gal. 6.2.</note> Conſidering thy ſelfe, leſt thou alſo bee tempted.</p>
+            </sp>
+            <sp>
+               <speaker>Citt.</speaker>
+               <p>Truly Sir, it would be very well if we could be thus affected towards them, and that we could make ſuch good uſe thereof as you have ſpoken, for then ſhould we pitty them, and pray for them, as I now perſwade my ſelfe it is our duty.</p>
+            </sp>
+            <sp>
+               <pb n="9" facs="tcp:111713:6"/>
+               <!-- PDF PAGE 13 -->
+               <speaker>Gent.</speaker>
+               <p>Yea ſurely, whileſt they are alive it is our duty to pray for them, the faithful, ſaith <hi>Calvin,</hi> deſire as much as lyeth in them, that the wicked ſhould returne to a perfect minde, and ſo they ſeeke their ſalvation, that they ſhould not periſh, thus then we muſt pray to God to pardon them, and to turne their hearts, and to move us hereunto,<note place="margin">Mat. 5.44.</note> let us firſt conſider that our Saviour commands it. Se<g ref="char:EOLhyphen"/>condly, let us conſider that they are our owne fleſh.<note place="margin">Eſay 58.7.</note> Thirdly, conſider they have ſome part at the leaſt of Gods image in them, but alas this duty is contrary to the nature that is in us, and the practiſe of the world, and therefore contrary to this duty, they doe hate them, rejoyce at their fall, ſpeake all ill both to them, and of them, and interpret all things againſt them.</p>
+            </sp>
+            <sp>
+               <speaker>Citt.</speaker>
+               <p>Well Sir, you have fully ſatisfied me how we ſhould be affected towards the living, I pray de<g ref="char:EOLhyphen"/>clare likewiſe how we ſhould be affected towards the dead.</p>
+            </sp>
+            <sp>
+               <speaker>Gent.</speaker>
+               <p>As we muſt pray for them whileſt they are alive, ſo muſt we pitty them being cut off, becauſe they have brought miſery upon themſelves.</p>
+            </sp>
+            <sp>
+               <speaker>Citt.</speaker>
+               <p>But may we not lawfully rejoyce when wic<g ref="char:EOLhyphen"/>ked men are taken away, are wee not bidden to re<g ref="char:EOLhyphen"/>joyce at wicked mens deſtructions, <hi>Pſal.</hi> 52. and <hi>Pſal.</hi> 58.10.</p>
+            </sp>
+            <sp>
+               <speaker>Gent.</speaker>
+               <p>Indeed thus much I doe grant, that though we know not mens finall eſtate, yet if we ſee any no<g ref="char:EOLhyphen"/>torious enemy of the Church and Goſpel, and good men taken away, we may give God thankes, and in ſome ſenſe rejoyce, as namely, for that God hath ſhewed himſelfe carefull of his Church, and hath
+<pb n="10" facs="tcp:111713:7"/>
+                  <!-- PDF PAGE 14 -->provided for his owne glory, the comfort of his people, and paſſage of goodneſſe, and for the terror of other bad ones left behinde, but we muſt no waies rejoyce as it is the deſtruction of the perſon: but I being now come to my journies end, muſt of neceſ<g ref="char:EOLhyphen"/>ſity breake off, though abruptly, except you will be pleaſed to light and refreſh your ſelfe, and your horſe with ſuch proviſion as our Countrey affords.</p>
+            </sp>
+            <sp>
+               <speaker>Citt.</speaker>
+               <p>Truly Sir, I am heartily ſorrie that you are ſo ſoone come to your owne home, and that I cannot by any meanes ſtay any longer with you, for I deſire to reach to Nottingham to night, and you ſee the day is far ſpent, ſo that if I ſhould ſtay, I feare I ſhould be benighted, wherefore Sir I give you moſt hearty thankes for your good company, and eſpecially for your Chriſtian-like diſcourſe, the which I hope I ſhall never forget, and if it pleaſe the Lord to bring me to London againe, I purpoſe to acquaint my friends with theſe things, who have as well as I been heretofore too harſh in judging and ſpeaking againſt theſe men.</p>
+            </sp>
+            <sp>
+               <speaker>Gen.</speaker>
+               <p>Sir, I ſhould have been right glad to have heard more newes from London, but ſeeing you cannot conveniently ſtay, there is no remedy, I thanke you for your company, and ſo the Lord be with you, and ſend you well to your journies end.</p>
+            </sp>
+            <sp>
+               <speaker>Citt.</speaker>
+               <p>The Lord be with you alſo I beſeech him, <hi>Amen.</hi>
+               </p>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
